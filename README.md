@@ -1,7 +1,7 @@
 # Anomaly-Detection
 Anomaly-Transformer： 
 There is a demo in the folder.
-Also, two UTS datasets are provided.(Yahoo and NAB)
+Also, four UTS datasets are provided.(Yahoo and NAB had been ran, you can try the left)
 The origin code you can found in :https://github.com/thuml/Anomaly-Transformer
 
 FCVAE：
